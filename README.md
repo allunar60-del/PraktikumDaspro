@@ -1,5 +1,3 @@
 ini fitur 1
-
-kematian adalah suatu kepastian
-
+baris terbaru di github
 ini fitur 2
